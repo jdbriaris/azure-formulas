@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/Azure/azure-devtestlab/master/schemas/2015-01-01/dtlArtifacts.json",
-  "title": "WTF",
-  "description": "Installs BeyondCompare 4",
+  "title": "HESA ReSharper",
+  "description": "Installs ReSharper",
   "tags": [
     "Scooter Software",
     "BeyondCompare"
