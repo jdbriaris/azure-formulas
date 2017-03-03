@@ -2,7 +2,7 @@
   "$schema": "https://raw.githubusercontent.com/Azure/azure-devtestlab/master/schemas/2015-01-01/dtlArtifacts.json",
   "title": "Installs ReSharper",
   "description": "Installs ReSharper version 2016.3.2 on Windows",
-  "iconUri": "",
+  "iconUri": "https://github.com/jdbriaris/azure-formulas/blob/master/Artifacts/windows-install-resharper/resharper.jpg",
   "targetOsType": "Windows"
   },
   "runCommand": {
